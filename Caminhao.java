@@ -21,6 +21,6 @@ public class Caminhao extends Veiculo {
     public void exibirDados() {
         super.exibirDados();
         String str = "Número de eixos: " + eixos;
-        JOptionPane.showConfirmDialog(null, str, "Mensagem", 1);
+        JOptionPane.showMessageDialog(null, str);
     }
 }

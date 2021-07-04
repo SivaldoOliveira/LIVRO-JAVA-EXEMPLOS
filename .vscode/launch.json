@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CadastroVeiculos",
+            "request": "launch",
+            "mainClass": "CadastroVeiculos",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_ac008516"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConversaoObjetoErro",
+            "request": "launch",
+            "mainClass": "ConversaoObjetoErro",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_ac008516"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConversaObjeto",
+            "request": "launch",
+            "mainClass": "ConversaObjeto",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_ac008516"
+        },
+        {
+            "type": "java",
+            "name": "Launch TipoObjeto",
+            "request": "launch",
+            "mainClass": "TipoObjeto",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_ac008516"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConsultaClasse",
+            "request": "launch",
+            "mainClass": "ConsultaClasse",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_ac008516"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroCaminhao",
+            "request": "launch",
+            "mainClass": "CadastroCaminhao",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_ac008516"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroOnibus",
+            "request": "launch",
+            "mainClass": "CadastroOnibus",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_ac008516"
+        },
+        {
+            "type": "java",
             "name": "Launch ConversaObjeto",
             "request": "launch",
             "mainClass": "ConversaObjeto",
