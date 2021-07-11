@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FolhaPagamento",
+            "request": "launch",
+            "mainClass": "FolhaPagamento",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_ac008516"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteFolha",
+            "request": "launch",
+            "mainClass": "TesteFolha",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_ac008516"
+        },
+        {
+            "type": "java",
             "name": "Launch CadastroVeiculos",
             "request": "launch",
             "mainClass": "CadastroVeiculos",
