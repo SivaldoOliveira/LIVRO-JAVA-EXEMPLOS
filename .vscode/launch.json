@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TesteMensagem",
+            "request": "launch",
+            "mainClass": "TesteMensagem",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_24d2eb24"
+        },
+        {
+            "type": "java",
             "name": "Launch FolhaPagamento",
             "request": "launch",
             "mainClass": "FolhaPagamento",
