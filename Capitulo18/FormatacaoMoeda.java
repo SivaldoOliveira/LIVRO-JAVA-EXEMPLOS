@@ -1,0 +1,3 @@
+System.public class FormatacaoMoeda {
+    
+}
