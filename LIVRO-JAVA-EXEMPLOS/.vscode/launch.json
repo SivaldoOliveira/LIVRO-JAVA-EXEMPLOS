@@ -1,0 +1,595 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Explorador",
+            "request": "launch",
+            "mainClass": "Explorador",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch InfoArquivo",
+            "request": "launch",
+            "mainClass": "InfoArquivo",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExclusaoArquivo",
+            "request": "launch",
+            "mainClass": "ExclusaoArquivo",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CriacaoArquivo",
+            "request": "launch",
+            "mainClass": "CriacaoArquivo",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploSincronizacao",
+            "request": "launch",
+            "mainClass": "ExemploSincronizacao",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinhaDupla",
+            "request": "launch",
+            "mainClass": "LinhaDupla",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploThread",
+            "request": "launch",
+            "mainClass": "ExemploThread",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploCamposFormatados",
+            "request": "launch",
+            "mainClass": "ExemploCamposFormatados",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploSlider",
+            "request": "launch",
+            "mainClass": "ExemploSlider",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploAbas",
+            "request": "launch",
+            "mainClass": "ExemploAbas",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrocaTema",
+            "request": "launch",
+            "mainClass": "TrocaTema",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploLAF",
+            "request": "launch",
+            "mainClass": "ExemploLAF",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListaLAFs",
+            "request": "launch",
+            "mainClass": "ListaLAFs",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch JFMenuFundo",
+            "request": "launch",
+            "mainClass": "JFMenuFundo",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch JFMenu",
+            "request": "launch",
+            "mainClass": "JFMenu",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Barra",
+            "request": "launch",
+            "mainClass": "Barra",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ModeloGrade",
+            "request": "launch",
+            "mainClass": "ModeloGrade",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_2b24f80e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Grade",
+            "request": "launch",
+            "mainClass": "Grade",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch DialogoPadrao",
+            "request": "launch",
+            "mainClass": "DialogoPadrao",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch DialogoCustomizado",
+            "request": "launch",
+            "mainClass": "DialogoCustomizado",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch MenuPopup",
+            "request": "launch",
+            "mainClass": "MenuPopup",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch MenuSuspenso",
+            "request": "launch",
+            "mainClass": "MenuSuspenso",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventoLista",
+            "request": "launch",
+            "mainClass": "EventoLista",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventoItem",
+            "request": "launch",
+            "mainClass": "EventoItem",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lista",
+            "request": "launch",
+            "mainClass": "Lista",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch CaixaCombinacao",
+            "request": "launch",
+            "mainClass": "CaixaCombinacao",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch BotaoRadio",
+            "request": "launch",
+            "mainClass": "BotaoRadio",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch CaixaChecagem",
+            "request": "launch",
+            "mainClass": "CaixaChecagem",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventoAjuste",
+            "request": "launch",
+            "mainClass": "EventoAjuste",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch PainelRolagem",
+            "request": "launch",
+            "mainClass": "PainelRolagem",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch BarraRolagem",
+            "request": "launch",
+            "mainClass": "BarraRolagem",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaTexto",
+            "request": "launch",
+            "mainClass": "AreaTexto",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch CampoSenha",
+            "request": "launch",
+            "mainClass": "CampoSenha",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch CampoTexto",
+            "request": "launch",
+            "mainClass": "CampoTexto",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeiauteFlexivel",
+            "request": "launch",
+            "mainClass": "LeiauteFlexivel",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeiauteFichas",
+            "request": "launch",
+            "mainClass": "LeiauteFichas",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeiauteGrade",
+            "request": "launch",
+            "mainClass": "LeiauteGrade",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeiauteBordas",
+            "request": "launch",
+            "mainClass": "LeiauteBordas",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeiauteFluxo",
+            "request": "launch",
+            "mainClass": "LeiauteFluxo",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventoMouse",
+            "request": "launch",
+            "mainClass": "EventoMouse",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventoTeclado",
+            "request": "launch",
+            "mainClass": "EventoTeclado",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventoFoco",
+            "request": "launch",
+            "mainClass": "EventoFoco",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventoComponente",
+            "request": "launch",
+            "mainClass": "EventoComponente",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventoJanela3",
+            "request": "launch",
+            "mainClass": "EventoJanela3",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventoJanela2",
+            "request": "launch",
+            "mainClass": "EventoJanela2",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch EventoJanela1",
+            "request": "launch",
+            "mainClass": "EventoJanela1",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch Painel",
+            "request": "launch",
+            "mainClass": "Painel",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch Botao",
+            "request": "launch",
+            "mainClass": "Botao",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroLivros",
+            "request": "launch",
+            "mainClass": "CadastroLivros",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComparandoDatas",
+            "request": "launch",
+            "mainClass": "ComparandoDatas",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch Documentacao",
+            "request": "launch",
+            "mainClass": "Documentacao",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploArrayList",
+            "request": "launch",
+            "mainClass": "ExemploArrayList",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploCollection",
+            "request": "launch",
+            "mainClass": "ExemploCollection",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploEstatisticas",
+            "request": "launch",
+            "mainClass": "ExemploEstatisticas",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploFilaPrioridade",
+            "request": "launch",
+            "mainClass": "ExemploFilaPrioridade",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploHashMap",
+            "request": "launch",
+            "mainClass": "ExemploHashMap",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploHashSet",
+            "request": "launch",
+            "mainClass": "ExemploHashSet",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploLinkedList",
+            "request": "launch",
+            "mainClass": "ExemploLinkedList",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploListaInclusao",
+            "request": "launch",
+            "mainClass": "ExemploListaInclusao",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploPesquisaBinaria",
+            "request": "launch",
+            "mainClass": "ExemploPesquisaBinaria",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploPilha",
+            "request": "launch",
+            "mainClass": "ExemploPilha",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploTreeSet",
+            "request": "launch",
+            "mainClass": "ExemploTreeSet",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploVetor",
+            "request": "launch",
+            "mainClass": "ExemploVetor",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormatacaoDatas",
+            "request": "launch",
+            "mainClass": "FormatacaoDatas",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormatacaoDecimais",
+            "request": "launch",
+            "mainClass": "FormatacaoDecimais",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormatacaoExtra",
+            "request": "launch",
+            "mainClass": "FormatacaoExtra",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormatacaoMoeda",
+            "request": "launch",
+            "mainClass": "FormatacaoMoeda",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch IdiomasDisponiveis",
+            "request": "launch",
+            "mainClass": "IdiomasDisponiveis",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsercaoTeste",
+            "request": "launch",
+            "mainClass": "InsercaoTeste",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch Janela",
+            "request": "launch",
+            "mainClass": "Janela",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch LocalPadrao",
+            "request": "launch",
+            "mainClass": "LocalPadrao",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrdenacaoPersonalizada",
+            "request": "launch",
+            "mainClass": "OrdenacaoPersonalizada",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch PBTeste",
+            "request": "launch",
+            "mainClass": "PBTeste",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch PLAtletas",
+            "request": "launch",
+            "mainClass": "PLAtletas",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch PLTeste",
+            "request": "launch",
+            "mainClass": "PLTeste",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch PaisesDisponiveis",
+            "request": "launch",
+            "mainClass": "PaisesDisponiveis",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rotulo",
+            "request": "launch",
+            "mainClass": "Rotulo",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelecaoTeste",
+            "request": "launch",
+            "mainClass": "SelecaoTeste",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrocaAtleta",
+            "request": "launch",
+            "mainClass": "TrocaAtleta",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrocaData",
+            "request": "launch",
+            "mainClass": "TrocaData",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrocaTeste",
+            "request": "launch",
+            "mainClass": "TrocaTeste",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidaData",
+            "request": "launch",
+            "mainClass": "ValidaData",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidaHorario",
+            "request": "launch",
+            "mainClass": "ValidaHorario",
+            "projectName": "LIVRO-JAVA-EXEMPLOS_7e4d3a98"
+        }
+    ]
+}
